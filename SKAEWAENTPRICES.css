@@ -1,0 +1,18 @@
+body{background-color: dodgerblue;background-image: url('https://scontent.fnbo10-1.fna.fbcdn.net/v/t1.15752-9/339768298_946488046659216_7332029745402249770_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEDLxgP0Ko3TU_asoinvgLDSmcb1fPUx1lKZxvV89THWWHEoTzlzLPhjO54haz1_bLjfCEIumFDuskHFrKPGwqt&_nc_ohc=yXlLIS1QtPgAX_dK4SG&_nc_pt=5&_nc_ht=scontent.fnbo10-1.fna&oh=03_AdQL0KcXVEOOk-or_vt_ZpyyFGE4du6hCe1jKp7p7Q0xzA&oe=64672304');
+	 background-size: ;}
+img{height:120px;border-radius: 65%; border: 3px solid black;fill: black;
+     margin-top:5px;box-shadow: -15px black;border-inline-color: black 15px;}
+div{background-color: ;
+     text-align: center;border-radius: 35px;}
+.hed li{display: inline-block;padding: 30px;}
+h1{color:darkturquoise;font-size: 40px; text-decoration: underline;}
+h2{color:dodgerblue;text-align: center;font-size:28px;}
+h3{color:lawngreen;font-size: 25px;text-align: left;text-decoration: underline;}
+ul{color: limegreen;font-size: 24px;text-align: left;}
+h4{text-align: center;color: deepskyblue;font-size: 22px;
+    text-decoration: underline;}
+H5{text-align: center;color: darkred;font-size: 20px;text-decoration: underline;}
+table{border:3px solid skyblue;text-align: center;color: red;background-color:black;border-radius: 15px;}
+p{color:gold;}
+h6{font-size: 27px;color: maroon;}
+footer{color: blue;text-align: center;font-size: 25px;}

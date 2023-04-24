@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="">
+	<title>contact us</title>
+</head>
+<body style="background-color: yellowgreen;">
+<h1>You can contact us through:</h1>
+   <p><b>Phone No:0720015194/0782015194</p>
+   	<br>
+   <p>Email:SKAEWAENTERPRISES@gmail.com</p>
+      <br>
+   <P>P.O BOX 16461-20100 NAKURU.
+</body>
+</html>
+
